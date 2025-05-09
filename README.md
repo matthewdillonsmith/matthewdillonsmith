@@ -17,8 +17,7 @@ Data Analyst with an M.S. in Applied Data Science and an MBA with a concentraion
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py,cs,js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=flask,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,flask,cs,dotnet,js,html,css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 ## Currently Exploring
